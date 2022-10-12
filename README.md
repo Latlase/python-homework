@@ -1,4 +1,4 @@
-# python-homework
+# python-practise
 ## HW_SikpYTad.py
 ### 圖形辨識+自動化練習，等待 SkipAD 按鈕出現正確自動按下。  
 使用 selenium 爬蟲技巧取得網頁元素操作  
